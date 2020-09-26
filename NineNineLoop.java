@@ -5,8 +5,6 @@ package ch05;
  */
 public class NineNineLoop {
 
-	public String name="rick"
-
 	public static void main(String[] args) {
 		int i, j;
 		for (i = 1; i <= 9; i++) {
