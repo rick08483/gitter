@@ -5,8 +5,12 @@ package ch05;
  */
 public class NineNineLoop {
 
+<<<<<<< HEAD
 	public String name="MMMM";
 	public String name1="aaM";
+=======
+	public String name="qqqqaa";
+>>>>>>> dog
 
 	public static void main(String[] args) {
 		int i, j;
