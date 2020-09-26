@@ -6,6 +6,7 @@ package ch05;
 public class NineNineLoop {
 
 	public String name="MMMM";
+	public String name1="aaM";
 
 	public static void main(String[] args) {
 		int i, j;
