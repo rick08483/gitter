@@ -5,6 +5,12 @@ package ch05;
  */
 public class NineNineLoop {
 
+<<<<<<< HEAD
+=======
+	public String name="Chen";
+
+
+>>>>>>> god
 	public static void main(String[] args) {
 		int i, j;
 		for (i = 1; i <= 9; i++) {
