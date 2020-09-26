@@ -5,7 +5,7 @@ package ch05;
  */
 public class NineNineLoop {
 
-	public String name="qqqq";
+	public String name="qqqqaa";
 
 	public static void main(String[] args) {
 		int i, j;
